@@ -13,7 +13,7 @@ body{
 
 .conteiner{
     width: 80%;
-    height: 430px;
+    height: 440px;
     display: flex;
     flex-direction: column;
     border-radius: 15px;
